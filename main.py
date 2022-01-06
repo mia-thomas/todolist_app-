@@ -1,3 +1,8 @@
+#CHALLENGE ADDED! 
+#1. Take inputs at command line using argparser instead of prompt.
+#2. use a lint to understand best practices to write python code. eg: pylint.
+
+
 filename = "TodoList.txt"
 
 print("Hello User!")
